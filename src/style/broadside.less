@@ -1,0 +1,66 @@
+aside {
+  width: 100%;
+  height: 100%;
+  background-color: rgb(84, 92, 100);
+}
+
+.minaside{
+  width:64px;
+}
+
+.maxaside{
+  width: 200px;
+}
+
+.aside .el-menu{
+  height: 100%;
+  border: none;
+}
+
+.aside .el-menu .el-menu-item{
+  font-size: 15px;
+}
+
+.aside .el-menu .is-active::after{
+  border-right: 17px solid #fff;
+  border-top: 17px solid transparent;
+  border-bottom: 17px solid transparent;
+  content: "";
+  display: inline-block;
+  position: absolute;
+  right: 0px;
+  top: 14px;
+}
+
+
+.aside .el-menu .el-menu-item:hover{
+  font-size: 17px;
+}
+
+.aside .el-menu .menuspan{
+  padding-left: 12px;
+}
+
+.aside .iscollapse{
+  text-align: center;
+  line-height: 56px;
+  height: 56px;
+}
+
+.aside .iscollapse:hover{
+  background-color: rgb(84, 92, 100) !important;
+}
+
+.aside .iscollapse .icon-liebiao{
+  font-size: 22px;
+  color: #fff;
+}
+
+.aside .iscollapse .icon-liebiao:hover{
+  cursor: pointer;
+}
+
+.el-menu-vertical-demo:not(.el-menu--collapse) {
+  width: 200px;
+  min-height: 400px;
+}

@@ -12,18 +12,27 @@ module.exports = {
     assetsPublicPath: '/', // 根路径
     proxyTable: { // 请求代理转发
       '/': {
-        target: 'http://localhost:52152',
+        target: 'http://192.168.0.199:8000',
         changeOrigin: true,
-        pathRewrite: {
-          '^/': ''
-        }
-      }
+      },
+      // '/api': {
+      //   target: 'http://192.168.0.166:8081',
+      //   // target: 'http://192.168.0.199:8000',
+      //   // target: 'http://localhost:52152',
+      //   changeOrigin: true,
+      // },
+      // '/Admin': {
+      //   // target: 'http://192.168.0.113:8081',
+      //   // target: 'http://192.168.0.199:8000',
+      //   target: 'http://localhost:52152',
+      //   changeOrigin: true,
+      // }
     },
 
     // Various Dev Server settings, 服务器配置
     host: 'localhost', // 域名
     // 端口号
-    port: 8080,  // can be overwritten by process.env.PORT, if port is in use, a free one will be determined
+    port: 8081,  // can be overwritten by process.env.PORT, if port is in use, a free one will be determined
     autoOpenBrowser: false, // 是否自动打开浏览器
     errorOverlay: true, // 启动错误显示
     notifOnError: true,

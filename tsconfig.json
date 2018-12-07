@@ -1,20 +1,3 @@
-/*
-{
-  "compilerOptions": {
-    "module": "commonjs",
-    "target": "es5",
-    "sourceMap": true,
-    "lib": [
-      "es2015"
-    ]
-  },
-  "exclude": [
-    "node_modules"
-  ]
-}
-*/
-
-
 {
   "include": [
     "src/**/*"
@@ -30,9 +13,12 @@
     "target": "es5",
     "moduleResolution": "node",
     "isolatedModules": true,
+    "jsx": "preserve",
     "lib": [
       "dom",
       "es5",
+      "es6",
+      "es7",
       "es2015.promise"
     ],
     "sourceMap": true,

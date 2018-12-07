@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<class_list>
+	<class type_id = "1" value="3C数码"> 
+		<class type_id = "1" id = "1">电脑及电脑周边</class>
+		<class type_id = "1" id = "2">手机</class>
+		<class type_id = "1" id = "3">摄影摄像</class>
+		<class type_id = "1" id = "4">网络存储</class>
+		<class type_id = "1" id = "5">影音娱乐</class>
+		<class type_id = "1" id = "6">办公设备</class>
+		<class type_id = "1" id = "7">电玩学习</class>
+		<class type_id = "1" id = "8">智能数码</class>
+		<class type_id = "1" id = "9">游戏设备</class>
+		<class type_id = "1" id = "10">数码硬件</class>
+		<class type_id = "1" id = "11">其他</class>
+	</class>
+	<class type_id = "2" value="医疗保健"> 
+		<class type_id = "2" id = "12">医疗机构</class>
+		<class type_id = "2" id = "13">药品</class>
+		<class type_id = "2" id = "14">保健品</class>
+		<class type_id = "2" id = "15">医疗器械</class>
+		<class type_id = "2" id = "16">心理健康</class>
+		<class type_id = "2" id = "17">生理健康</class>
+		<class type_id = "2" id = "18">成人用品</class>
+		<class type_id = "2" id = "19">医疗机构</class>
+		<class type_id = "2" id = "20">其他</class>
+	</class>
+	<class type_id = "3" value="商务服务"> 
+		<class type_id = "3" id = "21">代理</class>
+		<class type_id = "3" id = "22">策划咨询</class>
+		<class type_id = "3" id = "23">会计税务</class>
+		<class type_id = "3" id = "24">留学中介</class>
+		<class type_id = "3" id = "25">移民中介</class>
+		<class type_id = "3" id = "26">调查</class>
+		<class type_id = "3" id = "27">拍卖</class>
+		<class type_id = "3" id = "28">公关</class>
+		<class type_id = "3" id = "29">配音</class>
+		<class type_id = "3" id = "30">翻译</class>
+		<class type_id = "3" id = "31">会展</class>
+		<class type_id = "3" id = "32">商演</class>
+		<class type_id = "3" id = "33">其它</class>
+	</class>
+	<class type_id = "4" value="婚恋交友"> 
+		<class type_id = "4" id = "34">婚恋交友</class>
+		<class type_id = "4" id = "35">婚庆服务</class>
+		<class type_id = "4" id = "36">其它</class>
+	</class>
+	<class type_id = "5" value="家居建材"> 
+		<class type_id = "5" id = "37">家装主材</class>
+		<class type_id = "5" id = "38">住宅家具</class>
+		<class type_id = "5" id = "39">家居饰品</class>
+		<class type_id = "5" id = "40">家纺布艺</class>
+		<class type_id = "5" id = "41">五金电工</class>
+		<class type_id = "5" id = "42">装修设计</class>
+		<class type_id = "5" id = "43">其它</class>
+	</class>
+	<class type_id = "6" value="彩票"> 
+		<class type_id = "6" id = "44">彩票</class>
+	</class>
+	<class type_id = "7" value="房地产"> 
+		<class type_id = "7" id = "45">房屋中介</class>
+		<class type_id = "7" id = "46">房产出租</class>
+		<class type_id = "7" id = "47" >普通住房</class>
+		<class type_id = "7" id = "48">豪宅</class>
+		<class type_id = "7" id = "49">商用房</class>
+		<class type_id = "7" id = "50">二手房</class>
+		<class type_id = "7" id = "51">其它</class>
+	</class>
+	<class type_id = "8" value="丽人"> 
+		<class type_id = "8" id = "52">保养护肤</class>
+		<class type_id = "8" id = "53">香水</class>
+		<class type_id = "8" id = "54">彩妆</class>
+		<class type_id = "8" id = "55">功能化妆品</class>
+		<class type_id = "8" id = "56">瑜伽舞蹈</class>
+		<class type_id = "8" id = "57">纤体瘦身</class>
+		<class type_id = "8" id = "58">美发护发</class>
+		<class type_id = "8" id = "59">美甲美睫</class>
+		<class type_id = "8" id = "60">spa</class>
+		<class type_id = "8" id = "61">温泉洗浴</class>
+		<class type_id = "8" id = "62">足疗</class>
+		<class type_id = "8" id = "63">韩式定妆</class>
+		<class type_id = "8" id = "64">纹身</class>
+		<class type_id = "8" id = "65">整形</class>
+		<class type_id = "8" id = "66">其它</class>
+	</class>
+	<class type_id = "9" value="招商加盟"> 
+		<class type_id = "9" id = "67">美容减肥</class>
+		<class type_id = "9" id = "68">餐饮服务</class>
+		<class type_id = "9" id = "69">教育培训</class>
+		<class type_id = "9" id = "70">成人用品</class>
+		<class type_id = "9" id = "71">医药保健</class>
+		<class type_id = "9" id = "72">汽车产品</class>
+		<class type_id = "9" id = "73">其它</class>
+	</class>
+	<class type_id = "10" value="教育培训"> 
+		<class type_id = "10" id = "74">学前教育</class>
+		<class type_id = "10" id = "75">中小学教育</class>
+		<class type_id = "10" id = "76">大学考试</class>
+		<class type_id = "10" id = "77">职业教育</class>
+		<class type_id = "10" id = "78">学历教育</class>
+		<class type_id = "10" id = "79">语言培训</class>
+		<class type_id = "10" id = "80">IT培训</class>
+		<class type_id = "10" id = "81">公务员考试</class>
+		<class type_id = "10" id = "82">出国留学</class>
+		<class type_id = "10" id = "83">拓展训练</class>
+		<class type_id = "10" id = "84">其它</class>
+	</class>
+	<class type_id = "11" value="文化玩乐"> 
+		<class type_id = "11" id = "85">爱好收藏</class>
+		<class type_id = "11" id = "86">书籍杂志</class>
+		<class type_id = "11" id = "87">乐器</class>
+		<class type_id = "11" id = "88">鲜花园艺</class>
+		<class type_id = "11" id = "89">宠物</class>
+		<class type_id = "11" id = "90">个性定制</class>
+		<class type_id = "11" id = "91">网络服务</class>
+		<class type_id = "11" id = "92">展览</class>
+		<class type_id = "11" id = "93">动漫游戏周边</class>
+		<class type_id = "11" id = "94">桌游</class>
+		<class type_id = "11" id = "95">其它</class>
+	</class>
+	<class type_id = "12" value="旅游"> 
+		<class type_id = "12" id = "96">酒店住宿</class>
+		<class type_id = "12" id = "97">票务预订</class>
+		<class type_id = "12" id = "98">旅行社</class>
+		<class type_id = "12" id = "99">景点推广</class>
+		<class type_id = "12" id = "100">本地周边游</class>
+		<class type_id = "12" id = "101">国内线路游</class>
+		<class type_id = "12" id = "102">境外游</class>
+		<class type_id = "12" id = "103">其他旅游</class>
+		<class type_id = "12" id = "104">其它</class>
+	</class>
+	<class type_id = "13" value="日用百货"> 
+		<class type_id = "13" id = "105">收纳整理</class>
+		<class type_id = "13" id = "106">家居日用</class>
+		<class type_id = "13" id = "107">餐饮用具</class>
+		<class type_id = "13" id = "108">洗护用具</class>
+		<class type_id = "13" id = "109">其它</class>
+	</class>
+	<class type_id = "14" value="服饰箱包"> 
+		<class type_id = "14" id = "110">女装</class>
+		<class type_id = "14" id = "111">女裤</class>
+		<class type_id = "14" id = "112">女裙</class>
+		<class type_id = "14" id = "113">男装</class>
+		<class type_id = "14" id = "114">男裤</class>
+		<class type_id = "14" id = "115">服装配饰</class>
+		<class type_id = "14" id = "116">内衣</class>
+		<class type_id = "14" id = "117">套装</class>
+		<class type_id = "14" id = "118">童装</class>
+		<class type_id = "14" id = "119">童鞋</class>
+		<class type_id = "14" id = "120">男鞋</class>
+		<class type_id = "14" id = "121">女鞋</class>
+		<class type_id = "14" id = "122">箱包</class>
+		<class type_id = "14" id = "123">其它</class>
+	</class>
+	<class type_id = "15" value="本地生活"> 
+		<class type_id = "15" id = "124">家政</class>
+		<class type_id = "15" id = "125">鲜花</class>
+		<class type_id = "15" id = "126">休闲娱乐</class>
+		<class type_id = "15" id = "127">写真摄影</class>
+		<class type_id = "15" id = "128">星座算命</class>
+		<class type_id = "15" id = "129">电影演出</class>
+		<class type_id = "15" id = "130">卡券消费</class>
+		<class type_id = "15" id = "131">物流货运</class>
+		<class type_id = "15" id = "132">生活超市</class>
+		<class type_id = "15" id = "133">开锁</class>
+		<class type_id = "15" id = "134">其它</class>
+	</class>
+	<class type_id = "16" value="餐饮美食"> 
+		<class type_id = "16" id = "135">面包蛋糕</class>
+		<class type_id = "16" id = "136">咖啡厅</class>
+		<class type_id = "16" id = "137">粮油米面调味品</class>
+		<class type_id = "16" id = "138">生鲜</class>
+		<class type_id = "16" id = "139">烟草</class>
+		<class type_id = "16" id = "140">饮料</class>
+		<class type_id = "16" id = "141">酒水</class>
+		<class type_id = "16" id = "142">零食</class>
+		<class type_id = "16" id = "143">餐馆</class>
+		<class type_id = "16" id = "144">其它</class>
+	</class>
+	<class type_id = "17" value="母婴儿童"> 
+		<class type_id = "17" id = "145">育儿网站</class>
+		<class type_id = "17" id = "146">童装童鞋</class>
+		<class type_id = "17" id = "147">孕妇用品</class>
+		<class type_id = "17" id = "148">宝宝用品</class>
+		<class type_id = "17" id = "149">宝宝食品</class>
+		<class type_id = "17" id = "150">母婴摄影</class>
+		<class type_id = "17" id = "151">儿童玩具</class>
+		<class type_id = "17" id = "152">亲子活动</class>
+		<class type_id = "17" id = "153">其它</class>
+	</class>
+	<class type_id = "18" value="汽车"> 
+		<class type_id = "18" id = "154">车辆交易</class>
+		<class type_id = "18" id = "155">汽车用品</class>
+		<class type_id = "18" id = "156">改装和保养</class>
+		<class type_id = "18" id = "157">租车</class>
+		<class type_id = "18" id = "158">二手车</class>
+		<class type_id = "18" id = "159">其它</class>
+	</class>
+	<class type_id = "19" value="法律服务"> 
+		<class type_id = "19" id = "160">司法鉴定</class>
+		<class type_id = "19" id = "161">律师事务所</class>
+		<class type_id = "19" id = "162">公证</class>
+		<class type_id = "19" id = "163">其它</class>
+	</class>
+	<class type_id = "20" value="互联网服务"> 
+		<class type_id = "20" id = "164">电商平台</class>
+		<class type_id = "20" id = "165">门户社区</class>
+		<class type_id = "20" id = "166">视频</class>
+		<class type_id = "20" id = "167">第三方支付平台</class>
+		<class type_id = "20" id = "168">网上营业厅</class>
+		<class type_id = "20" id = "169">分类信息</class>
+		<class type_id = "20" id = "170">社交网站</class>
+		<class type_id = "20" id = "171">运营商服务</class>
+		<class type_id = "20" id = "172">在线办公</class>
+		<class type_id = "20" id = "173">其它</class>
+	</class>
+	<class type_id = "21" value="金融"> 
+		<class type_id = "21" id = "174">股票</class>
+		<class type_id = "21" id = "175">基金</class>
+		<class type_id = "21" id = "176">证券</class>
+		<class type_id = "21" id = "177">期货外汇</class>
+		<class type_id = "21" id = "178">银行/银行产品</class>
+		<class type_id = "21" id = "179">保险</class>
+		<class type_id = "21" id = "180">贵金属</class>
+		<class type_id = "21" id = "181">典当</class>
+		<class type_id = "21" id = "182">担保</class>
+		<class type_id = "21" id = "183">P2P网贷平台</class>
+		<class type_id = "21" id = "184">其它</class>
+	</class>
+	<class type_id = "22" value="营销/广告/包装"> 
+		<class type_id = "22" id = "185">广告代理</class>
+		<class type_id = "22" id = "186">营销机构</class>
+		<class type_id = "22" id = "187">印刷</class>
+		<class type_id = "22" id = "188">广告包装</class>
+		<class type_id = "22" id = "189">其它</class>
+	</class>
+	<class type_id = "23" value="公益"> 
+		<class type_id = "23" id = "190">公益</class>
+	</class>
+	<class type_id = "24" value="运动健身"> 
+		<class type_id = "24" id = "191">运动鞋</class>
+		<class type_id = "24" id = "192">运动服</class>
+		<class type_id = "24" id = "193">户外运动用品</class>
+		<class type_id = "24" id = "194">运动包</class>
+		<class type_id = "24" id = "195">瑜伽健身用品</class>
+		<class type_id = "24" id = "196">运动场馆</class>
+		<class type_id = "24" id = "197">其它</class>
+	</class>
+	<class type_id = "25" value="移动游戏"> 
+		<class type_id = "25" id = "198">休闲时间</class>
+		<class type_id = "25" id = "199">跑酷竞速</class>
+		<class type_id = "25" id = "200">宝石消除</class>
+		<class type_id = "25" id = "201">网络游戏</class>
+		<class type_id = "25" id = "202">动作射击</class>
+		<class type_id = "25" id = "203">扑克棋牌</class>
+		<class type_id = "25" id = "204">儿童益智</class>
+		<class type_id = "25" id = "205">塔防守卫</class>
+		<class type_id = "25" id = "206">体育格斗</class>
+		<class type_id = "25" id = "207">角色扮演</class>
+		<class type_id = "25" id = "208">经营策略</class>
+		<class type_id = "25" id = "209">其它</class>
+	</class>
+	<class type_id = "26" value="游戏推广"> 
+		<class type_id = "26" id = "210">客户端游戏</class>
+		<class type_id = "26" id = "211">网页游戏</class>
+		<class type_id = "26" id = "212">手机</class>
+		<class type_id = "26" id = "213">掌机</class>
+		<class type_id = "26" id = "214">小游戏</class>
+		<class type_id = "26" id = "215">单机游戏</class>
+		<class type_id = "26" id = "216">电视游戏</class>
+		<class type_id = "26" id = "217">桌游</class>
+		<class type_id = "26" id = "218">其它</class>
+	</class>
+	<class type_id = "27" value="移动应用"> 
+		<class type_id = "27" id = "219">影音图像</class>
+		<class type_id = "27" id = "220">通信聊天</class>
+		<class type_id = "27" id = "221">网上购物</class>
+		<class type_id = "27" id = "222">美化手机</class>
+		<class type_id = "27" id = "223">阅读学习</class>
+		<class type_id = "27" id = "224">生活服务</class>
+		<class type_id = "27" id = "225">旅游出行</class>
+		<class type_id = "27" id = "226">常用工具</class>
+		<class type_id = "27" id = "227">性能优化</class>
+		<class type_id = "27" id = "228">新闻资讯</class>
+		<class type_id = "27" id = "229">社交网络</class>
+		<class type_id = "27" id = "230">金融理财</class>
+		<class type_id = "27" id = "231">办公软件</class>
+		<class type_id = "27" id = "232">育儿母婴</class>
+		<class type_id = "27" id = "233">其它</class>
+	</class>
+	<class type_id = "28" value="珠宝手表"> 
+		<class type_id = "28" id = "234" >珠宝钻石</class>
+		<class type_id = "28" id = "235">手表</class>
+		<class type_id = "28" id = "236">饰品</class>
+		<class type_id = "28" id = "237">其它</class>
+	</class>
+</class_list>
